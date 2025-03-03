@@ -7,5 +7,7 @@ potential papers to reproduce figures
 
 * [An atlas of transcription initiation reveals regulatory principles of gene and transposable element expression in early mammalian development](https://pubmed.ncbi.nlm.nih.gov/39837330/) GEO https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE225056
 
+* [Genome-coverage single-cell histone modifications for embryo lineage tracing](https://www.nature.com/articles/s41586-025-08656-1) Sequencing data have been deposited into the GEO database with accession numbers GSE235109 (TACIT data) and GSE259393 (CoTACIT, RNA-seq, embryo-barcoded TACIT and itChIP data).
+
 
 
