@@ -9,7 +9,7 @@ potential papers to reproduce figures
 
 * [Genome-coverage single-cell histone modifications for embryo lineage tracing](https://www.nature.com/articles/s41586-025-08656-1) Sequencing data have been deposited into the GEO database with accession numbers GSE235109 (TACIT data) and GSE259393 (CoTACIT, RNA-seq, embryo-barcoded TACIT and itChIP data).
 
-* TCGA ATACseq data [The chromatin accessibility landscape of primary human cancers](https://www.science.org/doi/10.1126/science.aav1898) 
+* TCGA ATACseq data [The chromatin accessibility landscape of primary human cancers](https://www.science.org/doi/10.1126/science.aav1898)  data https://gdc.cancer.gov/about-data/publications/ATACseq-AWG. The ATAC-seq peak accessibility and computed peak-to-gene linkage predictions are publicly available for interactive visualization and exploration at the UCSC Xena Browser (https://atacseq.xenahubs.net).
  
 
 
