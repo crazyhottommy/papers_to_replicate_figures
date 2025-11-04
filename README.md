@@ -12,6 +12,8 @@ potential papers to reproduce figures
 * TCGA ATACseq data [The chromatin accessibility landscape of primary human cancers](https://www.science.org/doi/10.1126/science.aav1898)  data https://gdc.cancer.gov/about-data/publications/ATACseq-AWG. The ATAC-seq peak accessibility and computed peak-to-gene linkage predictions are publicly available for interactive visualization and exploration at the UCSC Xena Browser (https://atacseq.xenahubs.net).
   
 *  Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling https://www.nature.com/articles/s41587-024-02475-x
+
+*  A human pan-disease blood atlas of the circulating proteome https://www.science.org/doi/10.1126/science.adx2678
  
 
 
