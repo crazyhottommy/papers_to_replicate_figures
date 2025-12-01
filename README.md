@@ -14,6 +14,7 @@ potential papers to reproduce figures
 *  Pooled CRISPR screens with joint single-nucleus chromatin accessibility and transcriptome profiling https://www.nature.com/articles/s41587-024-02475-x
 
 *  A human pan-disease blood atlas of the circulating proteome https://www.science.org/doi/10.1126/science.adx2678
+*  Motif-based models accurately predict cell type-specific distal regulatory elements https://www.nature.com/articles/s41467-025-65362-2 (plan to replicate the XGboost method)
  
 
 
