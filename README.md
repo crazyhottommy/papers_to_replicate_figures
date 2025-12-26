@@ -15,6 +15,7 @@ potential papers to reproduce figures
 
 *  A human pan-disease blood atlas of the circulating proteome https://www.science.org/doi/10.1126/science.adx2678
 *  Motif-based models accurately predict cell type-specific distal regulatory elements https://www.nature.com/articles/s41467-025-65362-2 (plan to replicate the XGboost method)
+*  Editing DNA methylation in vivo https://www.nature.com/articles/s41467-025-67222-5 (DNA methylation and RNAseq analysis)
  
 
 
